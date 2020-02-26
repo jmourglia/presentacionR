@@ -1,6 +1,6 @@
 ---
 title: "Mapas Temáticos con R"
-author: "Jose Mourglia"
+author: "Jose D. Mourglia"
 date: "Abril de 2019"
 #output: slidy_presentation
 #output: revealjs::revealjs_presentation
